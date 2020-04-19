@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "anujitnene.com",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Anujit Nene - Blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Anujit Nene",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
